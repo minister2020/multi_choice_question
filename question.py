@@ -4,8 +4,11 @@ from questions import question
 
 question_prompt =[
     "what colour are apples? \n(a) Red \n (b) Purple\n (c) Yello\n\n",
-    "what colour is Banana/ \n (a) Green \n (b) White \n (c) Blue\n\n",
-    "what colur are Mango? \n (a) Green \n (b) Yello \n (c) Pink\n\n"
+    "what colour are Banana/ \n (a) Green \n (b) White \n (c) Blue\n\n",
+    "what colur are Mango? \n (a) Green \n (b) Yello \n (c) Pink\n\n",
+    "what colur are watermelon? \n (a) White \n(b) Blue \n (c) Green",
+    "what  "
+
 ]
 
 questions = [
