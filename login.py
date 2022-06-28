@@ -98,7 +98,7 @@ for i in range(1, 13):
 def multiplacation_table (num):
     num = int(input("Enter the number: "))
     for i in enumerate(range(num, num * 13), 1)        
-      print 
+      
 
 
 
